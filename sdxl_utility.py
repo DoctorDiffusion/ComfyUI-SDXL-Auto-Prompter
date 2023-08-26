@@ -86,7 +86,8 @@ class PromptGenerator:
 
     ARTFORM = ["photography", "art"]
     PHOTO_TYPE = [
-        "surreal portrait", 
+        "",
+	"surreal portrait", 
         "horror portrait", 
         "action portrait", 
         "self portrait",
@@ -126,7 +127,8 @@ class PromptGenerator:
     ]
 
     ROLES = [
-        "as a ((cyborg))",
+        "",
+	"as a ((cyborg))",
         "as an ((x-men character))",
         "as a ((marvel character))",
         "as a ((character from lord of the rings))",
@@ -232,7 +234,8 @@ class PromptGenerator:
     ]
 
     HAIRSTYLES = [
-        "with ((long hair))",
+        "",
+	"with ((long hair))",
         "with ((very curly hair))",
         "with ((curly hair))",
         "with ((pixie cut hair))",
@@ -292,7 +295,8 @@ class PromptGenerator:
     ]
 
     ADDITIONAL_DETAILS = [
-        "a purple iridescent suit",
+        "",
+	"a purple iridescent suit",
         "wearing a (necklace)",
         "wearing ((earrings))",
         "wearing a (bracelet)",
@@ -380,7 +384,8 @@ class PromptGenerator:
     ]
 
     PHOTOGRAPHY_STYLES = [
-        "high fashion photography", 
+        "",
+	"high fashion photography", 
         "avant garde photography", 
         "fashion photography",
         "portrait photography",
@@ -392,7 +397,8 @@ class PromptGenerator:
     ]
 
     DEVICE = [
-        "Canon EOS 5D Mark IV with Canon EF 24-70mm f-2.8L II",
+        "",
+	"Canon EOS 5D Mark IV with Canon EF 24-70mm f-2.8L II",
         "Canon EOS 90D with Canon EF-S 18-135mm f-3.5-5.6 IS USM",
         "Canon EOS M6 Mark II with Canon EF-M 32mm f-1.4",
         "Canon EOS R with Canon RF 28-70mm f-2L",
@@ -454,7 +460,8 @@ class PromptGenerator:
     # ]
 
     PHOTOGRAPHER = [
-        "Alessio Albi",
+        "",
+	"Alessio Albi",
         "Alvin Langdon Coburn",
         "Anne Brigman",
         "Ansel Adams",
@@ -529,7 +536,8 @@ class PromptGenerator:
     ]
 
     ARTIST = [
-        "Akihito Tsukushi",
+        "",
+	"Akihito Tsukushi",
         "Al Hirschfeld",
         "Alan Lee",
         "Albert Bierstadt",
@@ -1243,7 +1251,8 @@ class PromptGenerator:
     ]
 
     DIGITAL_ARTFORM = [
-        "Glitch Art art",
+        "",
+	"Glitch Art art",
         "Digital Painting art",
         "Acrylic Paint art",
         "Algorithmic art",
@@ -1314,7 +1323,8 @@ class PromptGenerator:
     ]
 
     PLACE = [
-        "indoor",
+        "",
+	"indoor",
         "outdoor",
         "at night",
         "in the park",
@@ -1369,7 +1379,8 @@ class PromptGenerator:
         "rendered in a 2.5D isometric perspective. Soft gradients add dimension, pastel color scheme"
     ]
     LIGHTING = [
-        "popping colors, popart style",
+        "",
+	"popping colors, popart style",
         "bokeh",
         "dramatic",
         "golden hour",
